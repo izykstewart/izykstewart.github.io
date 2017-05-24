@@ -8,10 +8,10 @@ permalink: "/resources/"
 
 ## Interviews
 
-[How to Make a Fantasy World Map][7]\s\s
-[Cover Design 101: Killer of Enemies][9]\s\s
-[Imaginary Worlds Podcast][8]\s\s
-[Beyond Dragons and Wizards][6]\s\s
+- [How to Make a Fantasy World Map][7]
+- [Cover Design 101: Killer of Enemies][9]
+- [Imaginary Worlds Podcast][8]
+- [Beyond Dragons and Wizards][6]
 
 ## Map Resources
 
@@ -21,10 +21,10 @@ Even though I've been doing this for a long time, I am still in awe of maps and 
 
 My absolute favorite map site on the internet; plenty of reference, and the host there is extremely kind: [The Dave Rumsey Map Collection][1]
 
-A few of my favorite fantasy cartographers:\s\s
-[Jonathan Roberts][2]\s\s
-[Priscilla Spencer][3]\s\s
-[Maxime Plasse][4]\s\s
+A few of my favorite fantasy cartographers:
+- [Jonathan Roberts][2]
+- [Priscilla Spencer][3]
+- [Maxime Plasse][4]
 
 A great place to learn about fantasy cartography: [The Cartographers Guild][5]
 

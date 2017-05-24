@@ -8,10 +8,10 @@ categories:
 tags:
     - gallery
 image:
-   thumb: "twok_endsheet-front-1-webres.jpg"
+   thumb: ""
 gallery:
     - image_url: WoR_endpaper-2.jpg
-      caption: [Map of Roshar][1]
+      caption: Map of Roshar
     - image_url: twok_endsheet-front-1-webres.jpg
       caption: Front Chart from The Way of Kings
     - image_url: twok_endsheet-front-2-webres.jpg
@@ -27,6 +27,4 @@ gallery:
 ## Other Galleries
 {: .t60 }
 {% include list-posts tag='gallery' %}
-
-[1]: http://store.brandonsanderson.com/roshar-map-poster
 

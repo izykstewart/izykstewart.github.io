@@ -3,8 +3,6 @@ layout: page
 show_meta: false
 title: "Interviews and Resources"
 subheadline: ""
-header:
-   no
 permalink: "/resources/"
 ---
 
@@ -23,7 +21,10 @@ Even though I've been doing this for a long time, I am still in awe of maps and 
 
 My absolute favorite map site on the internet; plenty of reference, and the host there is extremely kind: [The Dave Rumsey Map Collection][1]
 
-A few of my favorite fantasy cartographers: [Jonathan Roberts][2] [Priscilla Spencer][3] [Maxime Plasse][4]
+A few of my favorite fantasy cartographers:
+[Jonathan Roberts][2]
+[Priscilla Spencer][3]
+[Maxime Plasse][4]
 
 A great place to learn about fantasy cartography: [The Cartographers Guild][5]
 

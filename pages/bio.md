@@ -4,10 +4,6 @@ show_meta: false
 title:  "Bio"
 subheadline:  ""
 teaser: ""
-categories:
-  - design
-header:
-   no
    
 permalink: "/bio/"
 ---

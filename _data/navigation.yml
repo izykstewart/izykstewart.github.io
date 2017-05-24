@@ -5,16 +5,9 @@
 - title: About
   url: "/bio/"
   side: right
-  
-#- title: Blog
-#  url: "/blog/"
-#  side: right
-#  dropdown:
-#  - title: "Blog Archive"
-#    url: "/blog/archive/"
 
 - title: "Art"
-#  url: "/blog/archive/"
+  url: no
   side: right
   dropdown:
   - title: "Stormlight"

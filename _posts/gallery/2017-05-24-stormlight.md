@@ -2,7 +2,6 @@
 layout: page-fullwidth
 subheadline:  "Galleries"
 title:  "Stormlight"
-teaser: "Selected Art from the Stormlight Archive"
 categories:
     - gallery
 tags:
@@ -24,7 +23,7 @@ gallery:
 
 {% include gallery %}
 
-## Other Galleries
+## More Art
 {: .t60 }
 {% include list-posts tag='gallery' %}
 

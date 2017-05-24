@@ -7,13 +7,16 @@ header:
    no
 permalink: "/resources/"
 ---
-##Interviews
+
+## Interviews
+
 [How to Make a Fantasy World Map][7]
 [Cover Design 101: Killer of Enemies][9]
 [Imaginary Worlds Podcast][8]
 [Beyond Dragons and Wizards][6]
 
-##Map Resources
+## Map Resources
+
 I've been making fantasy maps for a really long time; when I first played The Legend of Zelda to the time in 6th grade when the teacher read us The Hobbit and then asked us to write our own fantasy complete with a map. (Ask me about the Isle of the White Dweebs or Carcs, fuzzy winged wolves that looked suspiciously like my dog.)
 
 Even though I've been doing this for a long time, I am still in awe of maps and the people who create them. Here are some of my favorite map places on the internet, and though I only mention these few, there are so many more. Enjoy!

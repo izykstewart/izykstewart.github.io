@@ -1,21 +1,21 @@
-#- title: Home
-#  url: "/"
-#  side: left
+- title: Home
+  url: "/"
+  side: left
 
 - title: About
   url: "/bio/"
-  side: left
+  side: right
   
 - title: Blog
   url: "/blog/"
-  side: left
+  side: right
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
 - title: "Art"
-  url: "/gallery/"
-  side: left
+#  url: "/blog/archive/"
+  side: right
   dropdown:
   - title: "Stormlight"
     url: "/gallery/stormlight/"
@@ -24,11 +24,11 @@
     
 - title: "Resources"
   url: "/resources/"
-  side: left
+  side: right
 
 - title: "Store"
   url: "http://store.brandonsanderson.com"
-  side: left
+  side: right
 
 - title: "Search"
   url: "/search/"

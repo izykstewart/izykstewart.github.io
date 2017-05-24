@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  "Galleries"
-title:  "Stormlight Gallery"
+title:  "Stormlight"
 teaser: "Selected Art from the Stormlight Archive"
 categories:
     - gallery
@@ -11,7 +11,7 @@ image:
    thumb: "twok_endsheet-front-1-webres.jpg"
 gallery:
     - image_url: WoR_endpaper-2.jpg
-      caption: <a href="http://store.brandonsanderson.com/roshar-map-poster/">Map of Roshar</a>
+      caption: [Map of Roshar][1]
     - image_url: twok_endsheet-front-1-webres.jpg
       caption: Front Chart from The Way of Kings
     - image_url: twok_endsheet-front-2-webres.jpg
@@ -24,7 +24,9 @@ gallery:
 
 {% include gallery %}
 
-
 ## Other Galleries
 {: .t60 }
 {% include list-posts tag='gallery' %}
+
+[1]: http://store.brandonsanderson.com/roshar-map-poster
+

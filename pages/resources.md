@@ -5,7 +5,6 @@ title: "Interviews and Resources"
 subheadline: ""
 permalink: "/resources/"
 ---
-
 ## Interviews
 
 - [How to Make a Fantasy World Map][7]

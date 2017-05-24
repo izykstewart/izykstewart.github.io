@@ -8,7 +8,6 @@ teaser: ""
 permalink: "/bio/"
 
 image:
-    title: isaac_bio.jpg
     thumb: isaac_bio.jpg
 ---
 During the course of his life, Isaac Stewart has had more dreams than there are freckles on his back. When he was eight, he wanted to invent faster-than-light travel. At eleven he dreamt of being the first person on Mars. At thirteen he thought there could be nothing better than owning a sled-dog team and winning the Iditarod. Despite these passing obsessions, one dream never left him: He wanted to write and illustrate books.

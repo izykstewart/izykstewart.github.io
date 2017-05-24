@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Stormlight Gallery"
   url: 'https://izykstewart.github.io/gallery/stormlight/'
-  image: twok_endsheet-rear-1-webres-thumb.jpg
+  image: twok-endsheet-rear-1-webres-thumb.jpg
   text: 'Adding art to this website little by little. Here's some stuff I did for The Stormlight Archive.'
 widget2:
   title: "Why use this theme?"

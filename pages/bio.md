@@ -1,9 +1,11 @@
 ---
 layout: page-fullwidth
+show_meta: false
 title:  "Bio"
 subheadline:  ""
 teaser: ""
    
+permalink: "/bio/"
 ---
 
 image_url: isaac_bio.jpg

@@ -7,7 +7,7 @@
   side: right
 
 - title: "Art"
-  url: no
+  url: "/gallery/stormlight/"
   side: right
   dropdown:
   - title: "Stormlight"

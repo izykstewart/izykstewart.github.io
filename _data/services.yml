@@ -1,12 +1,12 @@
-- menu_name: "Favorite Sites"
+- menu_name: ""
 
-- name: "Tor"
-  url: "http:/tor.com"
-  title: "Tor"
+#- name: "Tor"
+#  url: "http:/tor.com"
+#  title: "Tor"
   
-- name: "Brandon Sanderson"
-  url: "http:/brandonsanderson.com"
-  title: "Fantasy Author"
+#- name: "Brandon Sanderson"
+#  url: "http:/brandonsanderson.com"
+#  title: "Fantasy Author"
 
 #- name: "RSS"
 #  url: "/feed.xml"

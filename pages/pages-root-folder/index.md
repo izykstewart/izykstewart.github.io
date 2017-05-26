@@ -5,23 +5,27 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+
 header:
+  title: Isaac Stewart
   image_fullwidth: header_unsplash_12.jpg
+#  caption: Artist/Author
+#  caption_url: http://isaacstewart.com
 widget1:
-  title: "Art Galleries"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  title: "Stormlight Gallery"
+  url: 'https://izykstewart.github.io/gallery/stormlight/'
+  image: stormlight-303x182.jpg
+  text: "Adding art to this website little by little. Here's some stuff I did for The Stormlight Archive."
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Mistborn Gallery"
+  url: 'https://izykstewart.github.io/gallery/mistborn/'
+  image: mistborn-303x182.jpg
+  text: "Adding art to this website little by little. Here's some stuff I did for The Mistborn Saga."
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  title: "Map Resources"
+  url: 'https://izykstewart.github.io/resources/'
+  image: map-resources-303x182.jpg
+  text: "I've written a few blog posts and done a few interviews you might find interesting."
 #
 # Use the call for action to show a button on the frontpage
 #

@@ -1,5 +1,12 @@
 ---
 layout: page
+
+header:
+  title: Isaac Stewart
+  image_fullwidth: header_unsplash_12.jpg
+#  caption: Artist/Author
+#  caption_url: http://isaacstewart.com
+
 show_meta: false
 title: "Interviews and Resources"
 subheadline: ""

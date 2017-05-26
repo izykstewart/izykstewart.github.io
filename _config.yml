@@ -9,7 +9,7 @@ slogan: 'Artist/Author'
 description: 'Isaac Stewart is known for the maps and symbols in the Mistborn series and The Stormlight Archive, both by Brandon Sanderson. On the side, Isaac writes and illustrates his own novels.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>&copy; 2017 Inkwing Arts. Site based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml

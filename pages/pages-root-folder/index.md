@@ -14,12 +14,12 @@ header:
 widget1:
   title: "Stormlight Gallery"
   url: 'https://izykstewart.github.io/gallery/stormlight/'
-  image: map-resources-303x182.jpg
+  image: stormlight-303x182.jpg
   text: "Adding art little by little. These are for The Stormlight Archive."
 widget2:
   title: "Mistborn Gallery"
   url: 'https://izykstewart.github.io/gallery/mistborn/'
-  image: stormlight-303x182.jpg
+  image: mistborn-303x182.jpg
   text: "Adding art little by little. These are for The Mistborn Saga."
 widget3:
   title: "Map Resources"

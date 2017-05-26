@@ -8,7 +8,7 @@ layout: frontpage
 
 header:
   title: Isaac Stewart
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_homepage_13.jpg
 #  caption: Artist/Author
 #  caption_url: http://isaacstewart.com
 widget1:

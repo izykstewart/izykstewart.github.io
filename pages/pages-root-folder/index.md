@@ -14,18 +14,18 @@ header:
 widget1:
   title: "Stormlight Gallery"
   url: 'https://izykstewart.github.io/gallery/stormlight/'
-  image: stormlight-303x182.jpg
-  text: "Adding art to this website little by little. Here's some stuff I did for The Stormlight Archive."
+  image: map-resources-303x182.jpg
+  text: "Adding art little by little. These are for The Stormlight Archive."
 widget2:
   title: "Mistborn Gallery"
   url: 'https://izykstewart.github.io/gallery/mistborn/'
-  image: mistborn-303x182.jpg
-  text: "Adding art to this website little by little. Here's some stuff I did for The Mistborn Saga."
+  image: stormlight-303x182.jpg
+  text: "Adding art little by little. These are for The Mistborn Saga."
 widget3:
   title: "Map Resources"
   url: 'https://izykstewart.github.io/resources/'
   image: map-resources-303x182.jpg
-  text: "I've written a few blog posts and done a few interviews you might find interesting."
+  text: "A few blog posts and interviews you might find interesting."
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -47,10 +47,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>

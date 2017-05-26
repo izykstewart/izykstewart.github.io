@@ -8,9 +8,19 @@
 #  class: icon-youtube
 #  title: "Videos"
 
+- name: Instagram
+  url: http://instagram.com/izykstewart
+  class: icon-instagram
+  title: ""
+
 - name: Twitter
   url: http://twitter.com/izykstewart
   class: icon-twitter
+  title: ""
+  
+- name: Facebook
+  url: http://www.facebook.com/izykstewart
+  class: icon-facebook
   title: ""
 
 #- name: Mixcloud
@@ -23,20 +33,10 @@
 #  class: icon-googleplus
 #  title: "YouTube Google+"
 
-- name: Facebook
-  url: http://www.facebook.com/izykstewart
-  class: icon-facebook
-  title: ""
-
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
-
-- name: Instagram
-  url: http://instagram.com/izykstewart
-  class: icon-instagram
-  title: ""
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
